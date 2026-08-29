@@ -1,3 +1,7 @@
+Note: The weird duplicated files were accidently pasted from a newer disassembly, and only build and run has been modified. 
+I do not reccomend using this hack as a base, get the actual sonic 1 disassembly or Hachi:
+Sonic 1 Disassembly: https://github.com/sonicretro/s1disasm
+Hachi Framework: https://github.com/ILW7IMF/Sonic-1-Hachi-Framework
 GM 00000000-04 
 Sonic 1  オーバードライブ
 Sonic 1 Overdrive
